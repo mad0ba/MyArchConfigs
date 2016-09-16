@@ -1,0 +1,33 @@
+2016/09/16-22:28:04.375 699 Reusing MANIFEST /home/mardii/.config/chromium/Default/Session Storage/MANIFEST-000001
+2016/09/16-22:28:04.375 699 Recovering log #55
+2016/09/16-22:28:04.376 699 Reusing old log /home/mardii/.config/chromium/Default/Session Storage/000055.log 
+2016/09/16-22:30:23.322 1242 Level-0 table #60: started
+2016/09/16-22:30:23.341 1242 Level-0 table #60: 28296 bytes OK
+2016/09/16-22:30:23.357 1242 Delete type=0 #55
+2016/09/16-22:32:06.410 1242 Level-0 table #62: started
+2016/09/16-22:32:06.431 1242 Level-0 table #62: 130705 bytes OK
+2016/09/16-22:32:06.445 1242 Delete type=0 #59
+2016/09/16-22:55:50.209 1242 Level-0 table #64: started
+2016/09/16-22:55:50.223 1242 Level-0 table #64: 30464 bytes OK
+2016/09/16-22:55:50.231 1242 Delete type=0 #61
+2016/09/16-22:55:57.765 1242 Level-0 table #66: started
+2016/09/16-22:55:57.778 1242 Level-0 table #66: 101214 bytes OK
+2016/09/16-22:55:57.786 1242 Delete type=0 #63
+2016/09/16-22:55:57.786 1242 Compacting 4@0 + 1@1 files
+2016/09/16-22:55:57.815 1242 Generated table #67@0: 1398 keys, 535554 bytes
+2016/09/16-22:55:57.815 1242 Compacted 4@0 + 1@1 files => 535554 bytes
+2016/09/16-22:55:57.834 1242 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/09/16-22:55:57.834 1242 Delete type=2 #60
+2016/09/16-22:55:57.834 1242 Delete type=2 #66
+2016/09/16-22:55:57.834 1242 Delete type=2 #62
+2016/09/16-22:55:57.834 1242 Delete type=2 #64
+2016/09/16-22:55:57.834 1242 Delete type=2 #57
+2016/09/16-23:01:40.113 1242 Level-0 table #69: started
+2016/09/16-23:01:40.124 1242 Level-0 table #69: 44009 bytes OK
+2016/09/16-23:01:40.136 1242 Delete type=0 #65
+2016/09/16-23:05:59.772 1242 Level-0 table #71: started
+2016/09/16-23:05:59.784 1242 Level-0 table #71: 71072 bytes OK
+2016/09/16-23:05:59.800 1242 Delete type=0 #68
+2016/09/16-23:12:32.058 1242 Level-0 table #73: started
+2016/09/16-23:12:32.071 1242 Level-0 table #73: 44764 bytes OK
+2016/09/16-23:12:32.079 1242 Delete type=0 #70
